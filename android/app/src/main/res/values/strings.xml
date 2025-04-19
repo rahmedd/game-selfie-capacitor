@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">gameselfie</string>
+    <string name="title_activity_main">gameselfie</string>
+    <string name="package_name">com.gameselfie.app</string>
+    <string name="custom_url_scheme">com.gameselfie.app</string>
+</resources>
