@@ -1,3 +1,4 @@
 # gameboy-selfie
+Run gameboy selfie on Android using Capacitor JS.
 
-Ported from https://github.com/robozevel/gameboy-selfie to run on Android using Capacitor JS.
+This is a fork of https://github.com/robozevel/gameboy-selfie. Thanks Robozevel
